@@ -11,3 +11,5 @@ Styrelsen består av följande:
 * Henrik Ekeblad
 
 Styrelsen har suttit sedan föreningsstämman 2019. Samuel och Micaela har en mandatperiod på 2 år och resterande 1 år.
+
+Styrelsen kontaktas bäst via mail: [styrelsen@slanbaret.nu](mailto:styrelsen@slanbaret.nu).
