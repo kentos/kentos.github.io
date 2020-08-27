@@ -5,3 +5,5 @@
 layout: home
 list_title: Nyheter
 ---
+
+Välkommen!
