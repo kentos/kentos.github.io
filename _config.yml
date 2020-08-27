@@ -34,8 +34,9 @@ show_excerpts: true
 
 # Build settings
 #theme: minima
-# plugins:
-#   - jekyll-feed
+plugins:
+  - jekyll-feed
+  - jekyll-seo
 
 # Exclude from processing.
 # The following items will not be processed, by default.
