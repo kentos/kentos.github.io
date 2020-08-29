@@ -6,4 +6,5 @@ layout: home
 list_title: Nyheter
 ---
 
-Välkommen!
+Välkommen till bostadsrättsföreningen Slånbäret!<br/>
+BRF Slånbäret ligger i Kumla och består av 35 radhus i form av parhus och längor om 5. 

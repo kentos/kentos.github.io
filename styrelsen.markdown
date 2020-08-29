@@ -2,6 +2,7 @@
 layout: page
 title: Styrelsen
 permalink: /styrelsen/
+menu: main
 ---
 
 Styrelsen består av följande:
@@ -10,6 +11,6 @@ Styrelsen består av följande:
 * Kent Cederström
 * Henrik Ekeblad
 
-Styrelsen har suttit sedan föreningsstämman 2019. Samuel och Micaela har en mandatperiod på 2 år och resterande 1 år.
+Styrelsen har varit aktiv sedan föreningsstämman 2019. Ordförande och sekreterare har en mandatperiod på 2 år och resterande 1 år.
 
 Styrelsen kontaktas bäst via mail: [styrelsen@slanbaret.nu](mailto:styrelsen@slanbaret.nu).
