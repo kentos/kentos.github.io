@@ -3,7 +3,7 @@ layout: post
 title:  "Inbjudan till föreningsstämma 2020"
 date:   2020-09-03 19:00:00
 categories: stämma
-permalink:  stamma2020
+permalink:  inbjudan-stamma2020
 ---
 
 Nu är det snart dags för den årliga föreningsstämman för oss i BRF Slånbäret.
