@@ -32,6 +32,12 @@ minima:
 
 show_excerpts: true
 
+collections:
+  kalender:
+    output: true
+    title: Kalender
+    permalink: /kalender/:title
+
 # Build settings
 #theme: minima
 plugins:
