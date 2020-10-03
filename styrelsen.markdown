@@ -6,11 +6,16 @@ menu: main
 ---
 
 Styrelsen består av följande:
-* Samuel Kanat, ordförande
+* Kent Cederström, ordförande
 * Micaela Axberg, sekreterare
-* Kent Cederström
+* Linnéa Wintercorn
+* Tim Svensson
+* Andreas Lennselius
+* Christian Kundsen
 * Henrik Ekeblad
 
-Styrelsen har varit aktiv sedan föreningsstämman 2019. Ordförande och sekreterare har en mandatperiod på 2 år och resterande 1 år.
+Styrelsen har varit aktiv sedan föreningsstämman 2019.
 
 Styrelsen kontaktas bäst via mail: [styrelsen@slanbaret.nu](mailto:styrelsen@slanbaret.nu).
+
+Styrelsens uppdrag är att på uppdrag från föreningsstämman förvalta föreningen.
