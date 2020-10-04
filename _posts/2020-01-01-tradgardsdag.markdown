@@ -16,7 +16,7 @@ Ansvarsområden att anmäla intresse till inför dagen:
 - Kall dryck 
 - Fika/bakning
 
-**Anmälan till trädgårdsdagen samt ansvarsområden, specialkost och övriga frågor skickas till Micaela Axberg på telefon 070-66 77 927 eller mailas till [styrelsen@slanbaret.nu](styrelsen@slanbaret.nu) senast lördag 4/10.**
+**Anmälan till trädgårdsdagen samt ansvarsområden, specialkost och övriga frågor skickas till Micaela Axberg på telefon 070-66 77 927 eller mailas till [styrelsen@slanbaret.nu](styrelsen@slanbaret.nu) senast söndag 4/10.**
 
 Hoppas vi ses! 
 
