@@ -3,7 +3,61 @@
   <head>
     <title>bastard creative</title>
   </head>
+  <style>
+    /**
+      Colors: #F2441D, #D9704A, #F2E9BD, #314011, #050D00
+    */
+    html, body {
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+      font-size: 18px;
+      line-height: 1.5;
+      height: 100%;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      background-color: #F2E9BD;
+      color: #050D00;
+    }
+    #wrapper {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+    }
+    #content {
+      display: flex;
+      flex-direction: column;
+      max-width: 30rem;
+    }
+    p, h1 {
+      text-align: center;
+    }
+    a {
+      color: #D9704A;
+    }
+    a:hover {
+      text-decoration: none;
+    }
+  </style>
   <body>
-    <h1>bastard creative</h1>
+    <div id="wrapper">
+      <div id="content">
+        <h1>bastard creative</h1>
+        <p>
+          <strong>Kreativ teknolog</strong> utan krusiduller.<br/>
+          Vi skapar digitala <em>tjänster</em> och <em>upplevelser</em>.<br/>
+        </p>
+        <p>
+          En bra app eller tjänst ska inte kosta skjortan samt vara konsultoberoende.<br/>
+        </p>
+        <p>
+          Här får du tag på oss:<br/>
+          <a href="mailto:kent@bastardcreative.se">kent@bastardcreative.se</a>
+        </p>
+      </div>
+    </div>
   </body>
 </html>
